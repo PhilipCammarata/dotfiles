@@ -6,7 +6,7 @@ colorscheme distinguished " set colorschemu
 set number                " show line numbers
 set laststatus=2          " last window always has a statusline
 filetype indent on        " activates indenting for files
-set hlsearch            " Don't continue to highlight searched phrases.
+set hlsearch              " Don't continue to highlight searched phrases.
 set incsearch             " But do highlight as you type your search.
 set ignorecase            " Make searches case-insensitive.
 set ruler                 " Always show info along bottom.
